@@ -10,6 +10,8 @@ const int pinDirA = 2;
 const int pinPwmB = 6;
 const int pinDirB = 7;
 
+const int scaling_factor = 50;
+
 ros::NodeHandle nh;
 std_msgs::String debug_msg;
 
@@ -33,8 +35,8 @@ void drive_callback(const geometry_msgs::Twist& cmd_vel) {
   debug_msg.data = buffer;
   debug_pub.publish(&debug_msg);
 
-  int left_motor_pwm = abs(int(left_motor_speed * 100));
-  int right_motor_pwm = abs(int(right_motor_speed * 100));
+  int left_motor_pwm = abs(int(left_motor_speed * scaling_factor));
+  int right_motor_pwm = abs(int(right_motor_speed * scaling_factor));
 
   if (left_motor_speed > 0) {
     digitalWrite(pinDirA, LOW);

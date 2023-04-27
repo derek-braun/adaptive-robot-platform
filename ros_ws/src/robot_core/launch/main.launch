@@ -9,12 +9,18 @@
   <node name="motor_control" pkg="robot_core" type="motor_control_node" output="screen" />
 
   <!-- Launch the LiDAR driver node -->
-  <include file="$(find ydlidar_ros_driver)/launch/X4.launch" />
+  <include file="$(find robot_core)/launch/lidar.launch" />
 
   <!-- Launch the static tf publisher for your robot's frames -->
   <include file="$(find robot_core)/launch/tf.launch" />
 
   <!-- Launch the mapping node -->
   <include file="$(find robot_core)/launch/hector_mapping.launch" />
+
+  <!-- Launch the exploration node -->
+  <include file="$(find robot_core)/launch/explore.launch" />
+
+  <!-- Launch the move base node -->
+  <include file="$(find robot_core)/launch/move_base.launch" />
 
 </launch>

@@ -1,0 +1,9 @@
+<launch>
+  <arg name="robot_base_frame" default="base_link" />
+  <arg name="map_topic" default="map" />
+
+  <node pkg="explore_lite" type="explore" name="explore" output="screen">
+    <param name="robot_base_frame" value="$(arg robot_base_frame)" />
+    <param name="map_topic" value="$(arg map_topic)" />
+  </node>
+</launch>
