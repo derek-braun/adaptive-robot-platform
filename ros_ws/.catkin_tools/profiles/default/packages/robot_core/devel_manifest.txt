@@ -1,0 +1,6 @@
+robot_core
+/home/derek/ARP/ros_ws/devel/.private/robot_core/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
+/home/derek/ARP/ros_ws/devel/.private/robot_core/lib/pkgconfig/robot_core.pc /home/derek/ARP/ros_ws/devel/lib/pkgconfig/robot_core.pc
+/home/derek/ARP/ros_ws/devel/.private/robot_core/lib/robot_core/motor_control_node /home/derek/ARP/ros_ws/devel/lib/robot_core/motor_control_node
+/home/derek/ARP/ros_ws/devel/.private/robot_core/share/robot_core/cmake/robot_coreConfig-version.cmake /home/derek/ARP/ros_ws/devel/share/robot_core/cmake/robot_coreConfig-version.cmake
+/home/derek/ARP/ros_ws/devel/.private/robot_core/share/robot_core/cmake/robot_coreConfig.cmake /home/derek/ARP/ros_ws/devel/share/robot_core/cmake/robot_coreConfig.cmake

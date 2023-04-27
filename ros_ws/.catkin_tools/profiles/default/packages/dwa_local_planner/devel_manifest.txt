@@ -1,0 +1,13 @@
+external/navigation/dwa_local_planner
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/lib/libdwa_local_planner.so /home/derek/ARP/ros_ws/devel/lib/libdwa_local_planner.so
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/lib/pkgconfig/dwa_local_planner.pc /home/derek/ARP/ros_ws/devel/lib/pkgconfig/dwa_local_planner.pc
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/lib/python3/dist-packages/dwa_local_planner/__init__.py /home/derek/ARP/ros_ws/devel/lib/python3/dist-packages/dwa_local_planner/__init__.py
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/lib/python3/dist-packages/dwa_local_planner/cfg/DWAPlannerConfig.py /home/derek/ARP/ros_ws/devel/lib/python3/dist-packages/dwa_local_planner/cfg/DWAPlannerConfig.py
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/lib/python3/dist-packages/dwa_local_planner/cfg/__init__.py /home/derek/ARP/ros_ws/devel/lib/python3/dist-packages/dwa_local_planner/cfg/__init__.py
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/include/dwa_local_planner/DWAPlannerConfig.h /home/derek/ARP/ros_ws/devel/include/dwa_local_planner/DWAPlannerConfig.h
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/share/dwa_local_planner/cmake/dwa_local_plannerConfig.cmake /home/derek/ARP/ros_ws/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig.cmake
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/share/dwa_local_planner/cmake/dwa_local_plannerConfig-version.cmake /home/derek/ARP/ros_ws/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig-version.cmake
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/share/dwa_local_planner/docs/DWAPlannerConfig-usage.dox /home/derek/ARP/ros_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig-usage.dox
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/share/dwa_local_planner/docs/DWAPlannerConfig.wikidoc /home/derek/ARP/ros_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig.wikidoc
+/home/derek/ARP/ros_ws/devel/.private/dwa_local_planner/share/dwa_local_planner/docs/DWAPlannerConfig.dox /home/derek/ARP/ros_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig.dox

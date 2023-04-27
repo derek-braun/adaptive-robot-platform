@@ -1,0 +1,20 @@
+<launch>
+  <!-- Launch arduino serial connection -->
+  <node name="arduino_serial_node" pkg="rosserial_python" type="serial_node.py" output="screen">
+    <param name="port" value="/dev/ttyACM0" />
+    <param name="baud" value="57600" />
+  </node>
+
+  <!-- Launch your robot's motor control node -->
+  <node name="motor_control" pkg="robot_core" type="motor_control_node" output="screen" />
+
+  <!-- Launch the LiDAR driver node -->
+  <include file="$(find ydlidar_ros_driver)/launch/X4.launch" />
+
+  <!-- Launch the static tf publisher for your robot's frames -->
+  <include file="$(find robot_core)/launch/tf.launch" />
+
+  <!-- Launch the mapping node -->
+  <include file="$(find robot_core)/launch/hector_mapping.launch" />
+
+</launch>
