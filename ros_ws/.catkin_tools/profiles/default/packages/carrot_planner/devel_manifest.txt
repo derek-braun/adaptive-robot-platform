@@ -1,6 +1,0 @@
-external/navigation/carrot_planner
-/home/derek/ARP/ros_ws/devel/.private/carrot_planner/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
-/home/derek/ARP/ros_ws/devel/.private/carrot_planner/lib/libcarrot_planner.so /home/derek/ARP/ros_ws/devel/lib/libcarrot_planner.so
-/home/derek/ARP/ros_ws/devel/.private/carrot_planner/lib/pkgconfig/carrot_planner.pc /home/derek/ARP/ros_ws/devel/lib/pkgconfig/carrot_planner.pc
-/home/derek/ARP/ros_ws/devel/.private/carrot_planner/share/carrot_planner/cmake/carrot_plannerConfig.cmake /home/derek/ARP/ros_ws/devel/share/carrot_planner/cmake/carrot_plannerConfig.cmake
-/home/derek/ARP/ros_ws/devel/.private/carrot_planner/share/carrot_planner/cmake/carrot_plannerConfig-version.cmake /home/derek/ARP/ros_ws/devel/share/carrot_planner/cmake/carrot_plannerConfig-version.cmake

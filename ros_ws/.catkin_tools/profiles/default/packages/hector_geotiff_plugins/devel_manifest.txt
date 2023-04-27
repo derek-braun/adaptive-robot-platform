@@ -1,6 +1,0 @@
-external/hector_slam/hector_geotiff_plugins
-/home/derek/ARP/ros_ws/devel/.private/hector_geotiff_plugins/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
-/home/derek/ARP/ros_ws/devel/.private/hector_geotiff_plugins/lib/libhector_geotiff_plugins.so /home/derek/ARP/ros_ws/devel/lib/libhector_geotiff_plugins.so
-/home/derek/ARP/ros_ws/devel/.private/hector_geotiff_plugins/lib/pkgconfig/hector_geotiff_plugins.pc /home/derek/ARP/ros_ws/devel/lib/pkgconfig/hector_geotiff_plugins.pc
-/home/derek/ARP/ros_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake /home/derek/ARP/ros_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake
-/home/derek/ARP/ros_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake /home/derek/ARP/ros_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake

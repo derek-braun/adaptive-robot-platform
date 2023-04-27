@@ -1,2 +1,0 @@
-external/navigation/navigation
-/home/derek/ARP/ros_ws/devel/.private/navigation/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock

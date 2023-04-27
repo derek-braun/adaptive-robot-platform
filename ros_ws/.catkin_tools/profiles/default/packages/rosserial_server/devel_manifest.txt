@@ -1,9 +1,0 @@
-external/rosserial/rosserial_server
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/lib/librosserial_server_lookup.so /home/derek/ARP/ros_ws/devel/lib/librosserial_server_lookup.so
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc /home/derek/ARP/ros_ws/devel/lib/pkgconfig/rosserial_server.pc
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node /home/derek/ARP/ros_ws/devel/lib/rosserial_server/udp_socket_node
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/lib/rosserial_server/serial_node /home/derek/ARP/ros_ws/devel/lib/rosserial_server/serial_node
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/lib/rosserial_server/socket_node /home/derek/ARP/ros_ws/devel/lib/rosserial_server/socket_node
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake /home/derek/ARP/ros_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
-/home/derek/ARP/ros_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake /home/derek/ARP/ros_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake

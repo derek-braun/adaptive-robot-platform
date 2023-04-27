@@ -1,2 +1,0 @@
-external/rosserial/rosserial
-/home/derek/ARP/ros_ws/devel/.private/rosserial/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock

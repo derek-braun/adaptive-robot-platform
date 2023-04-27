@@ -1,2 +1,0 @@
-external/hector_slam/hector_slam
-/home/derek/ARP/ros_ws/devel/.private/hector_slam/cmake.lock /home/derek/ARP/ros_ws/devel/./cmake.lock
