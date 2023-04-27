@@ -13,3 +13,6 @@
 [submodule "ros_ws/src/external/teleop_twist_keyboard"]
 	path = ros_ws/src/external/teleop_twist_keyboard
 	url = https://github.com/ros-teleop/teleop_twist_keyboard.git
+[submodule "ros_ws/src/sdk/YDLidar-SDK"]
+	path = ros_ws/src/sdk/YDLidar-SDK
+	url = https://github.com/YDLIDAR/YDLidar-SDK.git
