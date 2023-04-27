@@ -2,6 +2,7 @@ devel/
 build/
 logs/
 .vscode/
+arp.code-workspace
 .catkin_tools/
 .catkin_tools/
 .catkin_workspace
