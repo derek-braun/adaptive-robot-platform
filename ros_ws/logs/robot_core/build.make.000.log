@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target motor_control_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/motor_control_node.dir/src/motor_control_node.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/derek/ARP/ros_ws/devel/.private/robot_core/lib/robot_core/motor_control_node[0m
-[100%] Built target motor_control_node

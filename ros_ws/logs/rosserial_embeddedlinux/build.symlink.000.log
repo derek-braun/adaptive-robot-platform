@@ -1,5 +1,0 @@
-Symlinking /home/derek/ARP/ros_ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc
-Symlinking /home/derek/ARP/ros_ws/devel/lib/rosserial_embeddedlinux/make_libraries.py
-Symlinking /home/derek/ARP/ros_ws/devel/lib/rosserial_embeddedlinux/cmake.lock
-Symlinking /home/derek/ARP/ros_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake
-Symlinking /home/derek/ARP/ros_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake
